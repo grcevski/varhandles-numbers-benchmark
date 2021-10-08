@@ -1,0 +1,6 @@
+dontinline,*Numbers::bytesToLong
+dontinline,*Numbers::bytesToLongVH
+option,*Numbers::longToBytes,PrintOptoAssembly
+option,*Numbers::longToBytesVH,PrintOptoAssembly
+dontinline,*Numbers::longToBytes
+dontinline,*Numbers::longToBytesVH
